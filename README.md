@@ -12,7 +12,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Click the Markers dropdown arrow within MarkerTracking to show the list of Kudan Markers. Replace the existing marker with the NewKudanTrackable object that was created.
 * Install the echoAR SDK into the project.
 * Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
-* Overwrite the exisitng _echoAR/CustomBehavior.cs script with the new [CustomBehavior](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/blob/master/CustomBehavior.cs) file.
+* Overwrite the existing _echoAR/CustomBehavior.cs script with the new [CustomBehavior](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Living-Room-TV/blob/master/CustomBehavior.cs) file.
 * Replace the angelStatue in Drivers/Marker and the Capsule in Drivers/Markerless with two echoAR prefabs.
 * Add an apartment model into the echoAR console and use the metadata from Metadata.csv.
 
